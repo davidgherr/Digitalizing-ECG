@@ -3,7 +3,8 @@
 Starting from an image of an ECG done with a scanner, this project is about to get the digital signal.
 We can find three types of images:
 <ol>
-<li> Those with the grid in a diferent color from the signal:
+<li> <p>Those with the grid in a diferent color from the signal: [Hola](Color.ipynb)</p>
+   
    <p>
    <picture>
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/ecg.jpeg"
