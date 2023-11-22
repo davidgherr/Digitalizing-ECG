@@ -1,4 +1,5 @@
-# Digitalizing ECG
+<p align=center><b>[EN]</b></p>
+<h1 align=center>Digitalizing ECG</h1> 
 Starting from an image of an ECG done with a scanner, this project is about to get the digital signal.
 We can find three types of images:
 <ol>
@@ -22,3 +23,30 @@ We can find three types of images:
       height="250px">
    </picture></p></li>
 </ol>
+
+<p align=center><b>[ES]</b></p>
+<h1 align=center>Digitación de ECG</h1> 
+Partiendo de una imagen de un ECG hecho con escáner, este proyecto pretende obtener la señal ECG. 
+Podemos encontrar 3 tipos de imágenes:
+<ol>
+<li> Con la cuadrícula de diferente color a la señal:
+   <p>
+   <picture>
+   <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/ecg.jpeg"
+      height="250px">
+   </picture></p></li>
+   
+<li> En escala de gris pero con la señal claramente marcada:
+   <p>
+   <picture>
+   <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/D1.jpg"
+      height="250px">
+   </picture></p></li>
+<li> En escala de gris pero la señal puede ser confundida con la cuadrícula.
+   <p>
+   <picture>
+   <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/final_1.jpeg"
+      height="250px">
+   </picture></p></li>
+</ol>
+
