@@ -18,7 +18,7 @@ We can find three types of images:
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/D1.jpg"
       height="250px">
    </picture></p></li>
-<li> Those in gray scale but the signal can be confused with grid (to computational vision):
+<li> Those in gray scale but the signal can be confused with grid (to computational vision): <a href='https://github.com/davidgherr/Digitalizing-ECG/blob/main/Ruta-pesos variables.ipynb'>Ruta-pesos variables.ipynb</a>
    <p>
    <picture>
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/final_1.jpeg"
@@ -44,7 +44,7 @@ Podemos encontrar 3 tipos de imágenes:
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/D1.jpg"
       height="250px">
    </picture></p></li>
-<li> En escala de gris pero la señal puede ser confundida con la cuadrícula.
+<li> En escala de gris pero la señal puede ser confundida con la cuadrícula. <a href='https://github.com/davidgherr/Digitalizing-ECG/blob/main/Ruta-pesos variables.ipynb'>Ruta-pesos variables.ipynb</a>
    <p>
    <picture>
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/final_1.jpeg"
