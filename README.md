@@ -12,7 +12,7 @@ We can find three types of images:
       height="250px">
    </picture></p></li>
    
-<li> Those in gray scale but with the signal clearly marked:
+<li> Those in gray scale but with the signal clearly marked: <a href='https://github.com/davidgherr/Digitalizing-ECG/blob/main/Aperturas.ipynb'>Aperturas.ipynb</a>
    <p>
    <picture>
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/D1.jpg"
@@ -38,7 +38,7 @@ Podemos encontrar 3 tipos de imágenes:
       height="250px">
    </picture></p></li>
    
-<li> En escala de gris pero con la señal claramente marcada:
+<li> En escala de gris pero con la señal claramente marcada: <a href='https://github.com/davidgherr/Digitalizing-ECG/blob/main/Aperturas.ipynb'>Aperturas.ipynb</a>
    <p>
    <picture>
    <img alt="Color" src="https://raw.githubusercontent.com/davidgherr/Digitalizing-ECG/main/assets/D1.jpg"
